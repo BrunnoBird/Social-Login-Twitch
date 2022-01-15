@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/static/v1?label=Expo&message=42.0.1&color=7159c1&style=for-the-badge&logo=ghost"/>
 
 <h1 align="center">
-  <img alt="Images" title="#Images" src="./screenshots/screenshot.png" width=700 />
+  <img alt="Images" title="#Images" src="./screenShots/screenshot.png" width=700 />
 </h1>
 
 <h3 id="tecnologias">Tecnologias</h3>
